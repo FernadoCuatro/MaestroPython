@@ -1,0 +1,7 @@
+Una linea con texto
+Otra linea sin texto
+Mucho texto
+Cuarta Linea del fichero
+Cuarta Linea del fichero
+Cuarta Linea del fichero
+Cuarta Linea del fichero
